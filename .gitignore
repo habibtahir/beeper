@@ -3,6 +3,7 @@
 /nbproject/*
 .idea/*
 .code/*
+.git/*
 
 # Sublime Text cache files
 # -------------------------
